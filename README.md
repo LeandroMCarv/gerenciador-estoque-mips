@@ -12,3 +12,4 @@ Sistema de Gerenciamento de Estoque utilizando Python e Assembly Mips, possuindo
 - [@KauanFBR](https://github.com/KauanFBR)
 - [@PauloHenrique1O](https://github.com/PauloHenrique1O)
 - [@MatheusCalixto42](https://github.com/MatheusCalixto42)
+- [@vgabrielsilva](https://github.com/vgabrielsilva)
